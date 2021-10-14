@@ -38,3 +38,5 @@ print(example_str.endswith("  "))           # => True
 print(example_str.find("cool"))             # => 12 
 print(example_str.replace("cool", "yep"))   # =>     This is yep
 print("cool" in example_str)                # => true
+
+##
